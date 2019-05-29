@@ -1,0 +1,2 @@
+/home/osboxes/Desktop/LicenseTest/buildSrc/src/main/kotlin/HelloTask.kt
+/home/osboxes/Desktop/LicenseTest/buildSrc/src/main/kotlin/com.testplugin.GreetingTask.kt

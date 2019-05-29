@@ -1,0 +1,1 @@
+/home/osboxes/Desktop/LicenseTest/buildSrc/build/classes/kotlin/main/HelloTask.class:/home/osboxes/Desktop/LicenseTest/buildSrc/build/classes/kotlin/main/HelloTaskKt.class
